@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</head>
+<Meta charset="UTF-8">
+</Meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>WDD130 | Personal Homepage</title>
+<meta name="description" content="WDD130, Samuel Jabbie, This webpage link to attmy assignment, Samuel Jabbie Homepage">
+<meta name="author" content="SamuelJabbie">
+
+</head>
+
+
+<body>
+    <header>
+        <nav>
+            <a href="#">Home</a>
+            <a href="wwr/">Refting Website</a>
+        </nav>
+    </header>
+    <main>
+        <h1> Samuel Jabbie | WDD130
+            <img src="img" alt="Hello,my name is Samuel Jabbie" width="200">
+            <p>Hello My name is Samuel Jabbie and I am from Sierra Leone. I enjoy...</p>
+    </main>
+    <footer>
+        <p>@2025 Samuel Jabbie Sierra Leone
+        <p>
+    </footer>
+</body>
+
+</html>
